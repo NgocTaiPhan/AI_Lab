@@ -1,3 +1,4 @@
+package lab1_Task2; 
 
 public class Percept {
 	private String agentLocation;
