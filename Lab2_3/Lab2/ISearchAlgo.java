@@ -9,4 +9,5 @@ public interface ISearchAlgo {
 	
 	public Node execute_TreeS(Node root, String start, String goal);
 	
+	public Node execute(Node nodeS, String start, int i);
 }

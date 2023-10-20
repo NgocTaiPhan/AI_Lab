@@ -202,4 +202,10 @@ public class DepthFirstSearchAlgo implements ISearchAlgo {
 		System.out.println(res);
 	}
 
+	@Override
+	public Node execute(Node nodeS, String start, int i) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
 }
